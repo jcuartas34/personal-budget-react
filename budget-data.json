@@ -1,0 +1,32 @@
+{
+"myBudget":[
+    {
+        "title":"Food",
+        "budget": 30
+        },
+    {
+        "title":"Groceries",
+        "budget": 200
+        },
+    {
+        "title":"Rent",
+        "budget": 350
+        },
+    {
+        "title":"Gas",
+        "budget": 100
+        },
+    {
+        "title":"Cable",
+        "budget": 120
+        },
+    {
+        "title":"Supplies",
+        "budget": 50
+        },
+    {
+        "title":"Fun",
+        "budget": 70
+        }
+]
+}
